@@ -1,0 +1,80 @@
+body{
+background-color: #1A2D59;
+    font-family: sans-serif;
+    margin: 0PX;
+    padding: 0px;
+    font-size: 15px;
+}
+.container{
+    border: 2px indianred;
+    background-color: white;
+    border-radius: 10px;
+    min-height: 100px;
+    width: 600px;
+    margin: 150px auto;
+}
+.base{
+    width: 100%;
+    margin: 0%;
+    display: block;
+    float: none;
+    overflow: hidden;
+}
+.base h4{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif;
+
+}
+.head{
+    width: 135px;
+    padding: 5px 20px;
+    margin-left: 20px;
+    display: inline-block;
+    float: left;
+}
+.title{
+    font-size: 20px;
+    text-align: left;
+    font-family: sans-serif;
+    color: black;
+    word-spacing: 2.5px;
+}
+input[type=text]{
+width: 100px;
+height: 25px;
+border-color: skyblue;
+border-radius: 5px;
+border: 2px solid;
+}
+input[type=button]{
+width: 150px;
+margin-left: 35%;
+margin-top: 40px;
+outline: none;
+border: none;
+border-radius: 5PX;
+background-color: #0F9FCA;
+padding: 15px;
+color: white;
+font-size: 17px;
+text-align: center;
+margin-bottom: 50px;
+cursor: pointer;
+}
+#age{
+    display: block;
+    margin: 25px;
+    margin-top: 25px;
+    padding-bottom: 20px;
+    overflow: hidden;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    color: white;
+    padding: 10px;
+}
+    
+
+
